@@ -1,0 +1,4 @@
+evEmac
+======
+
+emac-haskell-mode
